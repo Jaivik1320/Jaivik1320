@@ -1,5 +1,5 @@
 Hey I am Jaivik Parekh
-a href="https://www.linkedin.com/in/jaivik-parekh-23a3bb185/">
+<a href="https://www.linkedin.com/in/jaivik-parekh-23a3bb185/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/dips_jaiswal">
