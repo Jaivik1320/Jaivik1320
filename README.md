@@ -1,4 +1,5 @@
 I'm Jaivik Parekh, A Software engineer who is busy making ideas happen. I have a keen interest in competitive programming. Having a good knowledge of technology. It was when I learned to code, that I realized software development is essentially the same thing as solving problems.
+
 Programming Languages:- C, C++, Java(Basic), Python
 Developer Tools/Other Technical:- VsCode, HTML5, CSS3,Javascript, Github, SQL, WordPress, Excel, PHP, ASP.Net, Node.js
 Certificates:- 
