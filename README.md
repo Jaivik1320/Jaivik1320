@@ -1,6 +1,12 @@
-Hi, I'm Jaivik Parekh, A Computer engineer who is busy making ideas happen. I have a keen interest in competitive programming. Having a good knowledge of technology. It was when I learned to code, that I realized software development is essentially the same thing as solving problems. Soon enough, I knew I had found my calling.
-In my free time, I like to read about the latest advancements in technology and analyze consumer behavior. What is trending? What makes giant tech companies like Apple, Amazon, Google successful and their next steps, etc. 
-Being a technology enthusiast, I love exploring new technologies and leveraging them to solve real-life problems.
+I'm Jaivik Parekh, A Software engineer who is busy making ideas happen. I have a keen interest in competitive programming. Having a good knowledge of technology. It was when I learned to code, that I realized software development is essentially the same thing as solving problems.
+Programming Languages:- C, C++, Java(Basic), Python
+Developer Tools/Other Technical:- VsCode, HTML5, CSS3,Javascript, Github, SQL, WordPress, Excel, PHP, ASP.Net, Node.js
+Certificates:- 
+1. Google IT Support Specialist
+2. Hackerrank problem solving
+3. HackerRank C++
+4. Introduction to IT & Security
+5. Introduction to IoT(Stanford University)
 <a href="https://www.linkedin.com/in/jaivik-parekh-23a3bb185"/>
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -13,4 +19,3 @@ Being a technology enthusiast, I love exploring new technologies and leveraging 
 
 </br></br>
 
-![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=Jaivik1320&show_icons=true&hide_border=true)
