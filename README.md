@@ -7,7 +7,7 @@
     	<!DOCTYPE html>
 <html>
   <head>
-    <title>This is a title</title>
+    <title>html</title>
     <link rel = "icon" type = "image/png href = "/html.png">
     <!-- For apple devices -->
     <link rel = "apple-touch-icon" type = "image/png" href = "/html.png"/>
