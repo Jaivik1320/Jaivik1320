@@ -24,8 +24,7 @@
  Contact No.:- +91-8320589755 
 
 </br></br>
-
-![Jaivik's github stats](https://github-readme-stats.vercel.app/api?username= Jaivik1320 &show_icons=true&hide_border=true)
+![Jaivik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaivik1320&show_icons=true&theme=radical)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
