@@ -3,7 +3,7 @@
 
 ### About Me 🚀
 - 🎓 I’m a Software Engineeer & recenlty completed my Bachelors in Computer Science & Engineering. 
-- 💻 I am passionate about Web Dev, cybersecurity, DevOps & I enjoy learning new things. 
+- 💻 I am passionate about Full Stack, cybersecurity, DevOps & I enjoy learning new things. 
 - 🔭 I’m currently working as a PHP/WordPress developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking actively looking for software development opportunities
