@@ -21,6 +21,7 @@
 <a href="mailto:jaivikparekh1320@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+\faPhone\ +91-8320589755 ~
 
 </br></br>
 
