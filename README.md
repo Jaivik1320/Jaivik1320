@@ -2,29 +2,29 @@
 
 
 ### About Me 🚀
-- 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering. 
-- 💻 I am passionate about Blockchain, Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
-- 🔭 I’m currently working on a Machine Learning Project
+- 🎓 I’m a Software Engineeer & recenlty completed my Bachelors in Computer Science & Engineering. 
+- 💻 I am passionate about Web Dev, cybersecurity, DevOps & I enjoy learning new things. 
+- 🔭 I’m currently working as a PHP/WordPress developer.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Developers and Leaders
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Cycling 🚴 and Space stuff 🌌
+- 👯 I’m looking actively looking for software development opportunities
+- 🥅 2022 Goals: Give my best beyond my limits and join a company that makes an impact to the society
+- ⚡ Fun fact: I love to play chess.
 
 - 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/dipesh-jaiswal/">
+<a href="https://www.linkedin.com/in/jaivik-parekh-23a3bb185/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/dips_jaiswal">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://sites.google.com/view/jaivikparekhportfolio/home>
+  <img align="left" width="26px" src="JP.png" />
 </a>
-<a href="mailto:dipeshjaiswal140@gmail.com">
+<a href="mailto:jaivikparekh1320@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 </br></br>
 
-![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=dipscoder&show_icons=true&hide_border=true)
+![Jaivik's github stats](https://github-readme-stats.vercel.app/api?username=Jaivik 1320 &show_icons=true&hide_border=true)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
