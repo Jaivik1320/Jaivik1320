@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Technology,Porgramming languages, DSA,Cybersecurity**
 
-- 📫 How to reach me **jaivikparekh1320@gmail.com**
+- 📫 How to reach me:- **jaivikparekh1320@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing](https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing)
+- 📄 Know about my experiences(Resume):- [https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing](https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Extrovert**
 
