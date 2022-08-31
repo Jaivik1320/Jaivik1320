@@ -15,7 +15,7 @@
 
 - 📝 Know about me more(Portfolio) [https://sites.google.com/view/jaivikparekhportfolio/home](https://sites.google.com/view/jaivikparekhportfolio/home)
 
-- 💬 Ask me about **Javascript,Cybersecurity**
+- 💬 Ask me about **Technology,Porgramming languages, DSA,Cybersecurity**
 
 - 📫 How to reach me **jaivikparekh1320@gmail.com**
 
