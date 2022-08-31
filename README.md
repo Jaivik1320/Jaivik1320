@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaivik Parekh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaivik1320&label=Profile%20views&color=0e75b6&style=flat" alt="jaivik1320" /> </p>
 
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working as **PHP/WordPress Developer**
 
 - 🌱 I’m currently learning **Machine learning and Cloud**
+
+- I am looking for **Software developer opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaivik1320](https://github.com/Jaivik1320)
 
