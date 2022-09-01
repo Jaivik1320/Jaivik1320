@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences(Resume):- [https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing](https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am shy**
+- ⚡ Fun fact **I think I am Ambivert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
