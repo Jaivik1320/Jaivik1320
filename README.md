@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Machine learning and Cloud**
 
 - I am looking for **Software developer opportunities**
+- Founded the Company JPAX that provides Search Enginer, E- Commerce and Services
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaivik1320](https://github.com/Jaivik1320)
 
@@ -19,7 +20,7 @@
 
 - 📫 How to reach me:- **jaivikparekh1320@gmail.com**
 
-- 📄 Know about my experiences(Resume):- [https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing](https://drive.google.com/file/d/11dgMx_K2wrSq4CRbg4azxYpnxQ5vEEzK/view?usp=sharing)
+- 📄 Know about my experiences(Resume):- https://drive.google.com/file/d/1spiOOGCFfRgAbAS-jb9W6WInhQKORAJX/view?usp=share_link
 
 - ⚡ Fun fact **I think I am Ambivert**
 
