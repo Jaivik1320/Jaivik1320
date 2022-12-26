@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Machine learning and Cloud**
 
-- I am looking for **Software developer opportunities**
 - Founded the Company JPAX that provides Search Enginer, E- Commerce and Services
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaivik1320](https://github.com/Jaivik1320)
