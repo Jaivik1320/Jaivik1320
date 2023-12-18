@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaivik Parekh</h1>
-<h3 align="center">A Passionate Software Developer From India</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaivik1320&label=Profile%20views&color=0e75b6&style=flat" alt="jaivik1320" /> </p>
 
