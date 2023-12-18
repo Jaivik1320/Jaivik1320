@@ -5,21 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaivik1320" alt="jaivik1320" /></a> </p>
 
-- 🔭 I’m currently working as **PHP/WordPress Developer**
+- 🔭 I’m currently pursuing master at **McMaster University**
 
 - 🌱 I’m currently learning **Machine learning and Cloud**
 
-- Founded the Company JPAX that provides Search Enginer, E- Commerce and Services
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jaivik1320](https://github.com/Jaivik1320)
 
-- 📝 Know about me more(Portfolio) [https://sites.google.com/view/jaivikparekhportfolio/home](https://sites.google.com/view/jaivikparekhportfolio/home)
+- 📝 Know about me more(Portfolio) [[https://bit.ly/jaivik-parekh-portfolio](https://bit.ly/jaivik-parekh-portfolio)]
 
-- 💬 Ask me about **Technology,Porgramming languages, DSA,Cybersecurity**
+- 💬 Ask me about **Technology, programming languages, DSA,Cybersecurity**
 
-- 📫 How to reach me:- **jaivikparekh1320@gmail.com**
+- 📫 How to reach me:- **parekj3@mcmaster.ca**
 
-- 📄 Know about my experiences(Resume):- https://drive.google.com/file/d/1spiOOGCFfRgAbAS-jb9W6WInhQKORAJX/view?usp=share_link
 
 - ⚡ Fun fact **I think I am Ambivert**
 
